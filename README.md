@@ -146,8 +146,16 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
 
 </div>
+---
 
+---
+## 💡 Daily Inspiration
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💡+%22The+best+error+message+is+the+one+that+never+shows+up.%22;💡+%22Code+never+lies%2C+comments+sometimes+do.%22;💡+%22Simplicity+is+the+ultimate+sophistication.%22" alt="Developer Quotes" />
+
+</div>
 
 ---
 
