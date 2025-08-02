@@ -117,8 +117,8 @@
 - [x] Build Multiple Full-Stack Projects[1]
 - [ ] Secure Web Development Internship
 - [ ] Contribute to 10+ Open Source Projects
-- [ ] Learn TypeScript and Next.js
-- [ ] Build and Deploy a SaaS Application
+- [x] Learn TypeScript and Next.js
+- [x] Build and Deploy a SaaS Application
 - [ ] Mentor Junior Developers
 
 ---
@@ -147,15 +147,7 @@
 
 </div>
 
----
 
-## 💡 Daily Inspiration
-
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=zues&font=Redressed)
-
-</div>
 
 ---
 
@@ -166,6 +158,7 @@
 ![snake gif](https://github.com/vivekk002/vivekk002/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 
 ---
 
