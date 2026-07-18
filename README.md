@@ -12,7 +12,7 @@
 
 <a href="https://vivekkumar.space/"><b>Portfolio</b></a> ·
 <a href="https://www.linkedin.com/in/vivek1107/"><b>LinkedIn</b></a> ·
-<a href="mailto:vivekkumar.akvk@gmail.com"><b>Email</b></a>
+<a href="mailto:vivekkumar.contacts@gmail.com"><b>Email</b></a>
 
 </div>
 
@@ -20,28 +20,19 @@
 
 ### 🧑‍💻 About Me
 
-I'm a Data Engineer in the making, focused on turning messy, raw data into clean, reliable pipelines that businesses can actually trust. I built an end-to-end ELT pipeline using PySpark, Delta Lake, and Databricks on GCP — going from raw CSVs to an analytics-ready star schema, with both full and incremental loading.
+I'm an aspiring Data Engineer who enjoys turning messy, raw data into pipelines people can actually rely on. I have a B.Tech in Information Technology and hands-on experience building a production-style data pipeline using PySpark, Delta Lake, and Databricks on Google Cloud Platform.
 
-```txt
-const vivek = {
-  role: "Data Engineer",
-  currentlyBuilding: "Retail Sales Data Pipeline — Medallion architecture on Databricks",
-  stack: ["Python", "SQL", "PySpark", "Spark SQL", "Delta Lake", "GCP", "Hadoop", "Hive"],
-  education: "B.Tech IT, Bundelkhand Institute of Engineering & Technology",
-  status: "Open to entry-level Data Engineering roles",
-  funFact: "I'd rather debug a bad merge condition than write documentation 😅"
-};
-```
+What draws me to data engineering is the problem-solving — tracing why a join produces duplicate rows, figuring out the cleanest way to handle a malformed date, or deciding how a pipeline should behave when the same record arrives twice. I like building things that quietly work, every time.
 
 - 🔭 **Currently building:** A retail sales ELT pipeline with Bronze-Silver-Gold architecture on Databricks
 - 🌱 **Currently sharpening:** Airflow/orchestration, data quality checks, and SCD Type 2 modeling
 - 💬 **Ask me about:** PySpark, Delta Lake, Spark SQL, star schema design, GCP
-- 📫 **Reach me:** [vivekkumar.akvk@gmail.com](mailto:vivekkumar.akvk@gmail.com)
+- 📫 **Reach me:** [vivekkumar.contacts@gmail.com](mailto:vivekkumar.contacts@gmail.com)
 - ⚡ **Open to:** Entry-level Data Engineering roles — Remote / Onsite / Hybrid
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Skills
 
 <div align="center">
 
@@ -69,9 +60,7 @@ const vivek = {
 
 <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,bash,linux&theme=dark" />
 
-</div>
-
-<div align="center">
+**Concepts**
 
 ![ETL](https://img.shields.io/badge/ETL%2FELT-Pipeline%20Design-4ECDC4?style=flat-square)
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-Data%20Modeling-338?style=flat-square)
@@ -81,7 +70,7 @@ const vivek = {
 
 ---
 
-### 🚀 Featured Project
+### 📂 Projects
 
 <div align="center">
 
@@ -91,7 +80,7 @@ const vivek = {
 
 **📦 Retail Sales Data Pipeline — Medallion Architecture**
 
-An end-to-end ELT pipeline built on Databricks using PySpark and Delta Lake. Raw CSV data (customers, products, pricing, orders) is ingested from GCS, cleansed, and modeled into a star schema — with full loads, incremental (upsert) loads via Delta MERGE, and monthly sales rollups.
+Built an end-to-end ELT pipeline on Databricks using PySpark and Delta Lake, processing customer, product, pricing, and order data across multiple source files. Designed both full-load and incremental-load flows using Delta Lake MERGE, avoiding full table rewrites on every run. Cleaned and modeled the data into a star schema to support fast, reliable reporting, with monthly sales rollups.
 
 `Databricks` `PySpark` `Delta Lake` `Spark SQL` `GCP`
 
@@ -103,12 +92,8 @@ An end-to-end ELT pipeline built on Databricks using PySpark and Delta Lake. Raw
 
 </div>
 
----
-
-### 📁 Other Projects (Full-Stack / MERN)
-
 <details>
-<summary>Click to expand — earlier full-stack projects</summary>
+<summary>📁 Other Projects (Full-Stack / MERN)</summary>
 
 <br/>
 
@@ -199,12 +184,17 @@ Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 
 
 ### 📜 Certifications
 
-- ✅ Data Engineering Curriculum — SQL, Python, Spark, PySpark, Databricks, GCP, Hadoop *(add platform/certificate name here)*
+- ✅ [Data Engineering for Beginners: Learn SQL, Python & Spark](https://ude.my/UC-963828be-5623-4a5d-8f93-fad7f01462b2) — Udemy (56 hours, completed Jul 2026)
 - ✅ TypeScript – A Handbook for Developers, FreeCodeCamp *(Jul 2025)*
 - ✅ Full Stack Developer Curriculum, FreeCodeCamp *(Dec 2024)*
 
 ---
 
+### 🤝 What I Bring
+
+Beyond the technical stack, I bring curiosity, attention to detail, and a habit of digging until I actually understand *why* something broke — not just patching the symptom. I enjoy collaborating with others, asking questions early, and I'm comfortable picking up new tools quickly when a project calls for it.
+
+---
 
 ### 🎯 Roadmap
 
@@ -233,7 +223,7 @@ Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekkumar.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek1107/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumar.akvk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekkumar.contacts@gmail.com)
 
 <br/>
 
