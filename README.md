@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Vivek%20👋&fontSize=48&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Builder%20of%20Things&descAlignY=55&descSize=18" alt="Header Capsule"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Vivek%20👋&fontSize=48&fontAlignY=35&fontColor=fff&animation=twinkling&desc=Data%20Engineer%20%7C%20PySpark%20%C2%B7%20Delta%20Lake%20%C2%B7%20Databricks%20%7C%20Building%20Data%20Pipelines&descAlignY=55&descSize=16" alt="Header Capsule"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Engineer;Clean+Code+%26+Scalable+Systems;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Data+Engineer;PySpark+%26+Spark+SQL;Databricks+%26+Delta+Lake;Turning+Raw+Data+Into+Reliable+Pipelines" alt="Typing SVG" />
 
 <br/>
 
@@ -20,24 +20,24 @@
 
 ### 🧑‍💻 About Me
 
-I'm a MERN stack developer who enjoys turning ideas into fast, reliable products — from the database schema to the pixel on screen. I've shipped 5+ full-stack projects to Vercel/Render, and I care about clean architecture, secure auth flows, and APIs that don't fall over under real usage.
+I'm a Data Engineer in the making, focused on turning messy, raw data into clean, reliable pipelines that businesses can actually trust. I built an end-to-end ELT pipeline using PySpark, Delta Lake, and Databricks on GCP — going from raw CSVs to an analytics-ready star schema, with both full and incremental loading.
 
 ```txt
 const vivek = {
-  role: "Full-Stack Developer (MERN)",
-  currentlyBuilding: "Second Brain — an AI-assisted link organizer",
-  pastExperience: "Frontend Developer Intern @ NomadNx",
+  role: "Data Engineer",
+  currentlyBuilding: "Retail Sales Data Pipeline — Medallion architecture on Databricks",
+  stack: ["Python", "SQL", "PySpark", "Spark SQL", "Delta Lake", "GCP", "Hadoop", "Hive"],
   education: "B.Tech IT, Bundelkhand Institute of Engineering & Technology",
-  status: "Open to Full-Stack / Frontend / Backend internships",
-  funFact: "I'd rather debug a race condition than write documentation 😅"
+  status: "Open to entry-level Data Engineering roles",
+  funFact: "I'd rather debug a bad merge condition than write documentation 😅"
 };
 ```
 
-- 🔭 **Currently building:** Second Brain — a link organizer with tagging and AI-assisted search
-- 🌱 **Currently sharpening:** TypeScript, system design, and Next.js
-- 💬 **Ask me about:** React, Redux Toolkit, REST API design, JWT auth
+- 🔭 **Currently building:** A retail sales ELT pipeline with Bronze-Silver-Gold architecture on Databricks
+- 🌱 **Currently sharpening:** Airflow/orchestration, data quality checks, and SCD Type 2 modeling
+- 💬 **Ask me about:** PySpark, Delta Lake, Spark SQL, star schema design, GCP
 - 📫 **Reach me:** [vivekkumar.akvk@gmail.com](mailto:vivekkumar.akvk@gmail.com)
-- ⚡ **Open to:** Remote / Onsite / Hybrid internships
+- ⚡ **Open to:** Entry-level Data Engineering roles — Remote / Onsite / Hybrid
 
 ---
 
@@ -45,33 +45,72 @@ const vivek = {
 
 <div align="center">
 
-**Frontend**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=react,redux,ts,tailwind,materialui,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
 
-**Backend & Database**
+**Big Data & Processing**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" />
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/Spark%20SQL-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 
-**Auth, Tools & Infra**
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&theme=dark" />
+**Cloud & Platforms**
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![GCS](https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,bash,linux&theme=dark" />
 
 </div>
 
 <div align="center">
 
-![JWT](https://img.shields.io/badge/JWT-Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-Password%20Hashing-338?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST-APIs-4ECDC4?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-3C3C3C?style=flat-square)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Media%20Storage-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%2FELT-Pipeline%20Design-4ECDC4?style=flat-square)
+![Star Schema](https://img.shields.io/badge/Star%20Schema-Data%20Modeling-338?style=flat-square)
+![Window Functions](https://img.shields.io/badge/SQL-Window%20Functions-3448C5?style=flat-square)
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
+**📦 Retail Sales Data Pipeline — Medallion Architecture**
+
+An end-to-end ELT pipeline built on Databricks using PySpark and Delta Lake. Raw CSV data (customers, products, pricing, orders) is ingested from GCS, cleansed, and modeled into a star schema — with full loads, incremental (upsert) loads via Delta MERGE, and monthly sales rollups.
+
+`Databricks` `PySpark` `Delta Lake` `Spark SQL` `GCP`
+
+[🔗 Repo](https://github.com/vivekk002/de-p1)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📁 Other Projects (Full-Stack / MERN)
+
+<details>
+<summary>Click to expand — earlier full-stack projects</summary>
+
+<br/>
 
 <div align="center">
 
@@ -80,7 +119,7 @@ const vivek = {
 <td width="50%">
 
 **🛒 E-Commerce Platform**
-Role-based auth, cart & checkout, product filtering, admin dashboards, and Cloudinary image uploads — a complete storefront built end to end.
+Role-based auth, cart & checkout, product filtering, admin dashboards, and Cloudinary image uploads.
 
 `MERN` `JWT` `Cloudinary`
 
@@ -90,7 +129,7 @@ Role-based auth, cart & checkout, product filtering, admin dashboards, and Cloud
 <td width="50%">
 
 **🧠 Second Brain**
-A link organizer with embeds, smart tagging, and AI-assisted retrieval — built to make saved knowledge actually searchable.
+A link organizer with embeds, smart tagging, and AI-assisted retrieval.
 
 `MERN` `AI Search`
 
@@ -102,7 +141,7 @@ A link organizer with embeds, smart tagging, and AI-assisted retrieval — built
 <td width="50%">
 
 **🏠 Airbnb Clone**
-Property listing and rental platform with image uploads, multi-role access, and cloud storage integration.
+Property listing and rental platform with image uploads and multi-role access.
 
 `MERN` `Cloud Storage`
 
@@ -112,7 +151,7 @@ Property listing and rental platform with image uploads, multi-role access, and 
 <td width="50%">
 
 **👥 Employee Management System**
-Authenticated CRUD system for employee records with a clean, modern Tailwind interface.
+Authenticated CRUD system for employee records with a Tailwind interface.
 
 `CRUD` `Tailwind` `Auth`
 
@@ -120,21 +159,11 @@ Authenticated CRUD system for employee records with a clean, modern Tailwind int
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-
-**🎨 Portfolio Website**
-A modern, animated, mobile-first, SEO-optimized portfolio site.
-
-`React` `Responsive Design`
-
-[🔗 Repo](https://github.com/vivekk002/myPortfolio) · [🚀 Live](https://vivekkumar.space/)
-
-</td>
-</tr>
 </table>
 
 </div>
+
+</details>
 
 ---
 
@@ -159,17 +188,18 @@ A modern, animated, mobile-first, SEO-optimized portfolio site.
 
 **Software Developer Intern — NomadNx**
 *Nov 2024 – Apr 2025*
-- Built React UIs across multiple client-facing projects.
-- Integrated and validated backend APIs using Postman.
+- Built UIs and integrated backend APIs across multiple client-facing projects, validating endpoints with Postman.
 - Received a Letter of Recommendation for performance.
+- *(Transferable to data engineering: API integration, debugging, and working with real production data flows.)*
 
 ### 🎓 Education
 
 **B.Tech, Information Technology**
-Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 2026 · GPA: 7.6/10
+Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 2026 · CGPA: 7.28/10
 
 ### 📜 Certifications
 
+- ✅ Data Engineering Curriculum — SQL, Python, Spark, PySpark, Databricks, GCP, Hadoop *(add platform/certificate name here)*
 - ✅ TypeScript – A Handbook for Developers, FreeCodeCamp *(Jul 2025)*
 - ✅ Full Stack Developer Curriculum, FreeCodeCamp *(Dec 2024)*
 
@@ -187,13 +217,14 @@ Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 
 
 ### 🎯 Roadmap
 
-- [x] Master MERN stack development
-- [x] Build and deploy multiple full-stack projects
-- [x] Learn TypeScript and Next.js
-- [x] Build and deploy a SaaS-style app
-- [ ] Secure a web development internship
-- [ ] Contribute to 10+ open-source projects
-- [ ] Mentor junior developers
+- [x] Learn SQL, Python, and data processing with Pandas
+- [x] Learn Spark, PySpark, and Spark SQL
+- [x] Build and deploy an end-to-end ELT pipeline (Bronze-Silver-Gold) on Databricks
+- [x] Learn the Hadoop ecosystem (HDFS, Hive, Dataproc)
+- [ ] Add pipeline orchestration (Airflow / Databricks Workflows)
+- [ ] Add data quality checks and testing to the pipeline
+- [ ] Secure a Data Engineering internship / entry-level role
+- [ ] Contribute to an open-source data engineering project
 
 ---
 
@@ -207,7 +238,7 @@ Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=🔍+Actively+Seeking+Internship+Opportunities;💻+Full+Stack+%7C+Frontend+%7C+Backend;🌐+Remote+%7C+Onsite+%7C+Hybrid;📧+Let's+Build+Something+Together!" alt="Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=🔍+Actively+Seeking+Data+Engineering+Roles;💻+SQL+%7C+PySpark+%7C+Databricks+%7C+GCP;🌐+Remote+%7C+Onsite+%7C+Hybrid;📧+Let's+Build+Reliable+Pipelines+Together!" alt="Opportunities" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://vivekkumar.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek1107/)
@@ -215,10 +246,10 @@ Bundelkhand Institute of Engineering and Technology, Jhansi · Nov 2022 – May 
 
 <br/>
 
-*"The best error message is the one that never shows up."*
+*"The best pipeline is the one that never wakes you up at 3 AM."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Capsule"/>
 
-<sub>🚀 Crafting digital experiences, one commit at a time</sub>
+<sub>🚀 Building reliable data pipelines, one commit at a time</sub>
 
 </div>
